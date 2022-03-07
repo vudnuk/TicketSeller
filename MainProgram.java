@@ -9,7 +9,7 @@ public class MainProgram {
     private PrintWriter p = null;
 
     /*
-     * Main method creates MainProgram object to run program. If it can't find the input variable, runs printStackTrace
+     * Main method creates MainProgram object to run program. If it can't locate the input file, runs printStackTrace
      * method on IOException.
      */
     public static void main(String[] args) {
